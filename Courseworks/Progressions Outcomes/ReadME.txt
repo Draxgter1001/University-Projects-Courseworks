@@ -1,4 +1,4 @@
-# Predict-Progression-Outcome
+#Predict-Progression-Outcome
 
 This program was developed for my Computer Science course work in my first semester in University using Python.
 The code predicts the progression outcomes of the students at the end of each academic year based on 3 inputted value by the user: Pass, Defer & Fail.
